@@ -1,6 +1,5 @@
----
 
-# 🌍 ENGLISH VERSION (GLOBAL PREFACE)
+ 🌍 ENGLISH VERSION (GLOBAL PREFACE)
 
 # Project: The Grand Seven-Pillar Chrono-Logic Matrix
 **Author / Developer:** Mohammad Talal Kadri (محمد طلال قادري)  
